@@ -1,4 +1,4 @@
-wafin akhoya le3ziz twehechtek bzaaaaf chof bghit readme file dyal had lcode import time
+import time
 
 print(30*"-")
 tasks = ["wakeup","clean your face","drink coffee"]
